@@ -1,0 +1,4 @@
+pptx_template==0.2.9
+pptx_template_simple==0.2.8.3
+PySimpleGUI==4.60.3
+pytz==2022.1
